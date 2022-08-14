@@ -1,0 +1,45 @@
+body {
+  background-color: #FFE898;
+text-align: center;
+}
+
+h1 {
+  font-family: 'DynaPuff', cursive;
+  color: grey;
+  font-size: 4rem;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  color: #F65A83;
+  font-size: 3rem;
+  margin-bottom: 0;
+
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  color: #3FA796;
+  font-size: 3rem;
+
+}
+
+
+/* classes */
+
+.img1, .img2 {
+  height: 250px;
+  width: 250px;
+  padding: 0 70px;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.cr {
+  font-family: 'DynaPuff', cursive;
+  color:  #F65A83;
+  font-size: 1rem;
+}
